@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/dougmoscrop/serverless-plugin-split-stacks.svg?style=svg)](https://circleci.com/gh/dougmoscrop/serverless-plugin-split-stacks)
+# CANDDi Note: Forked for use with serverless v4
 
 # serverless-plugin-split-stacks
 
